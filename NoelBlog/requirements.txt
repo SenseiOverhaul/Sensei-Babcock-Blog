@@ -1,0 +1,6 @@
+requirements.txt
+This file lists all the Python dependencies for the blog application.
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Werkzeug
